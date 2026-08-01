@@ -1,0 +1,6 @@
+{
+  "name": "MoneyTracker",
+  "description": "A basic, elegant personal expense tracker with daily categorization, custom tags, and dark mode support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

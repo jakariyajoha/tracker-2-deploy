@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@custom-variant dark (&:is(.dark *));
+
+body {
+  @apply bg-zinc-50 text-zinc-900 antialiased transition-colors duration-300;
+}
+
+.dark body {
+  @apply bg-black text-white;
+}
